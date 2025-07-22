@@ -8,7 +8,7 @@
   <b>QA Engineer | Automation Lover | Bowling Addict</b>
   <br/>
   <a href="mailto:rlacldns1123@naver.com"><img src="https://img.shields.io/badge/Email-rlacldns1123%40naver.com-blue?style=flat-square&logo=gmail" alt="email"/></a>
-  <a href="https://velog.io/@kimchiun"><img src="https://img.shields.io/badge/Blog-velog-green?style=flat-square&logo=velog" alt="blog"/></a>
+  <a href="https://keroqa.tistory.com/"><img src="https://img.shields.io/badge/Blog-velog-green?style=flat-square&logo=velog" alt="blog"/></a>
   <a href="https://www.linkedin.com/in/kimchiun"><img src="https://img.shields.io/badge/LinkedIn-Kimchiun-blue?style=flat-square&logo=linkedin" alt="linkedin"/></a>
 </p>
 
@@ -66,7 +66,7 @@
 ## 📫 How to reach me
 
 - **Email:** rlacldns1123@naver.com
-- **Blog:** [[velog.io/@kimchiun](https://velog.io/@kimchiun)](https://keroqa.tistory.com/)
+- **Blog:** https://keroqa.tistory.com/
 - **LinkedIn:** [Kimchiun](https://www.linkedin.com/in/kimchiun)
 
 ---
