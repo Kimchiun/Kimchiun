@@ -9,7 +9,7 @@
   <br/>
   <a href="mailto:rlacldns1123@naver.com"><img src="https://img.shields.io/badge/Email-rlacldns1123%40naver.com-blue?style=flat-square&logo=gmail" alt="email"/></a>
   <a href="https://keroqa.tistory.com/"><img src="https://img.shields.io/badge/Blog-velog-green?style=flat-square&logo=velog" alt="blog"/></a>
-  <a href="https://www.linkedin.com/in/kimchiun"><img src="https://img.shields.io/badge/LinkedIn-Kimchiun-blue?style=flat-square&logo=linkedin" alt="linkedin"/></a>
+  <a href="www.linkedin.com/in/chiun-kim"><img src="https://img.shields.io/badge/LinkedIn-Kimchiun-blue?style=flat-square&logo=linkedin" alt="linkedin"/></a>
 </p>
 
 ---
