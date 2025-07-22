@@ -66,7 +66,7 @@
 ## 📫 How to reach me
 
 - **Email:** rlacldns1123@naver.com
-- **Blog:** [velog.io/@kimchiun](https://velog.io/@kimchiun)
+- **Blog:** [[velog.io/@kimchiun](https://velog.io/@kimchiun)](https://keroqa.tistory.com/)
 - **LinkedIn:** [Kimchiun](https://www.linkedin.com/in/kimchiun)
 
 ---
