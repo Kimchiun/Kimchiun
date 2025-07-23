@@ -58,7 +58,7 @@
 ## 🌱 Recent Projects
 
 - [**Beamo Portal QA**](https://github.com/3i-ai/Beamo) – Digital Twin SaaS test automation
-- [**SSV QA**](https://github.com/3i-ai/ssv-qa) – Smart construction solution test
+- [**SSV(Samsung Site View) QA**](https://github.com/3i-ai/ssv-qa) – Smart construction solution test
 - [**Test Automation Scripts**](https://github.com/Kimchiun/test-automation) – Selenium & Pytest 기반 자동화
 
 ---
