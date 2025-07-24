@@ -36,6 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-seven-rosy-59.vercel.app/api?username=Kimchiun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats-seven-rosy-59.vercel.app/api/top-langs/?username=Kimchiun&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165">
 </p>
 
 
