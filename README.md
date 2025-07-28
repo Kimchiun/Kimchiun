@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 Working at **3i Inc.**  
+- 🏢 Working at **3i Inc**  
 - 🛠️ Specialize in **QA, Test Automation, Digital Twin SaaS, Crypto Market**
 - 🧑‍🔬 Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions
 - 🎳 **Bowling** fanatic & sometimes write tips on my blog!
