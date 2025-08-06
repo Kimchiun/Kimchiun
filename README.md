@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36d1c4,5b86e5&height=180&section=header&text=Kimchiun%20GitHub%20Profile&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#5b86e5;">Kimchiun</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#5b86e5;">chiun Kim</span></h1>
 <p align="center">
   <b>QA Engineer | Automation Lover | Bowling Addict</b>
   <br/>
