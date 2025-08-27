@@ -1,11 +1,11 @@
-<!-- 🍁 가을 분위기 배너 -->
+<!-- 🍂 가을 배너 (GIF 배경) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,FF8C00,F4A460&height=180&section=header&text=🍂%20Kimchiun's%20Autumn%20GitHub%20🍁&fontSize=38&fontAlign=50&fontColor=fffaf0" alt="autumn banner"/>
+  <img src="https://i.ibb.co/zSk2h1d/falling-leaves.gif" width="100%" alt="autumn leaves background"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#D2691E;">Chiun Kim</span></h1>
+<h1 align="center">🍁 Hi there 👋, I'm <span style="color:#D2691E;">Chiun Kim</span> 🍂</h1>
 <p align="center">
-  <b>QA Engineer 🍁 Automation Lover 🍂 Bowling Addict</b>  
+  <b>QA Engineer | Automation Lover | Bowling Addict</b>  
   <br/>
   <a href="mailto:rlacldns1123@naver.com"><img src="https://img.shields.io/badge/Email-rlacldns1123%40naver.com-darkorange?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://keroqa.tistory.com/"><img src="https://img.shields.io/badge/Blog-Autumn%20Notes-saddlebrown?style=flat-square&logo=blogger&logoColor=white" alt="blog"/></a>
@@ -16,18 +16,18 @@
 
 ## 🍂 About Me
 
-- 🏢 Currently at **3i Inc**
-- 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, Crypto Market**
-- 🛠️ Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions
-- 🎳 Bowling fanatic (🎳 autumn league season is my favorite!)  
-- 🍁 Always learning — CI/CD, TypeScript, WebRTC, and more
+- 🏢 Currently at **3i Inc**  
+- 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, Crypto Market**  
+- 🛠️ Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions  
+- 🎳 Bowling fanatic (love the autumn league vibes 🎳🍁)  
+- 🌰 Always learning — CI/CD, TypeScript, WebRTC...  
 
 ---
 
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kimchiun&theme=monokai&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kimchiun&theme=gruvbox&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" alt="trophy" />
 </p>
 
 ---
@@ -70,6 +70,7 @@
 
 ---
 
+<!-- 🍂 가을 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,FF8C00,F4A460&height=100&section=footer"/>
+  <img src="https://i.ibb.co/zSk2h1d/falling-leaves.gif" width="100%" alt="autumn footer"/>
 </p>
