@@ -16,7 +16,7 @@
 
 ## 🍂 About Me
 
-- 🏢 Currently at **3i Inc**
+- 🏢 Currently at ** ///// **
 - 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, Crypto Market**
 - 🛠️ Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions
 - 🎳 Bowling fanatic (🎳 autumn league season is my favorite!)  
