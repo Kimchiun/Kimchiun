@@ -16,7 +16,7 @@
 
 ## 🍂 About Me
 
-- 🏢 Currently at ** ///// **
+- 🏢 Currently at ** [Ahnlab BlockChine company](https://ahnlabblockchain.company/) **
 - 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, Crypto Market**
 - 🛠️ Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions
 - 🎳 Bowling fanatic (🎳 autumn league season is my favorite!)  
