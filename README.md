@@ -1,75 +1,106 @@
-<!-- 🍁 가을 분위기 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,FF8C00,F4A460&height=180&section=header&text=🍂%20Kimchiun's%20Autumn%20GitHub%20🍁&fontSize=38&fontAlign=50&fontColor=fffaf0" alt="autumn banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#D2691E;">Chiun Kim</span></h1>
-<p align="center">
-  <b>QA Engineer 🍁 Automation Lover 🍂 Bowling Addict</b>  
-  <br/>
-  <a href="mailto:rlacldns1123@naver.com"><img src="https://img.shields.io/badge/Email-rlacldns1123%40naver.com-darkorange?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://keroqa.tistory.com/"><img src="https://img.shields.io/badge/Blog-Autumn%20Notes-saddlebrown?style=flat-square&logo=blogger&logoColor=white" alt="blog"/></a>
-  <a href="https://www.linkedin.com/in/kimchiun"><img src="https://img.shields.io/badge/LinkedIn-Chiun%20Kim-peru?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
+# 🌸 Hello, I'm Chiun Kim 🌿
+
+### QA Engineer · Automation Lover · Bowling Addict
+
+봄처럼 꾸준히 성장하는 QA 엔지니어입니다.  
+더 안정적인 서비스, 더 나은 사용자 경험, 더 믿을 수 있는 품질을 만드는 일을 좋아합니다.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-rlacldns1123%40naver.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlacldns1123@naver.com)
+[![Blog](https://img.shields.io/badge/Blog-keroqa.tistory.com-A5D6A7?style=for-the-badge&logo=tistory&logoColor=white)](https://keroqa.tistory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimchiun-90CAF9?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🍂 About Me
+## 🌷 About Me
 
-- 🏢 Currently at ** [Ahnlab BlockChine company]([https://ahnlabblockchain.company/](https://ahnlabblockchain.company/)) **
-- 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, Crypto Market**
-- 🛠️ Tools: Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions
-- 🎳 Bowling fanatic (🎳 autumn league season is my favorite!)  
-- 🍁 Always learning — CI/CD, TypeScript, WebRTC, and more
+- 🏢 Currently at **AhnLab Blockchain Company**
+- 🔎 Specializing in **QA, Test Automation, Digital Twin SaaS, and Crypto Services**
+- 🛠️ Main tools: **Selenium, Python, Jenkins, Pytest, Jira, GitHub Actions**
+- 🌱 Interested in **CI/CD, TypeScript, WebRTC, and scalable QA processes**
+- 🎳 Bowling is my favorite way to stay focused, consistent, and competitive
+- ✨ I enjoy improving quality through both **careful testing** and **smart automation**
+
+---
+
+## 🌼 Tech Stack
+
+<div align="center">
+
+### 🧪 QA & Automation
+<img src="https://img.shields.io/badge/Selenium-8BC34A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-64B5F6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-81C784?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Appium-B39DDB?style=for-the-badge&logo=appium&logoColor=white" />
+
+### ⚙️ DevOps & Collaboration
+<img src="https://img.shields.io/badge/Jenkins-FFCC80?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-90CAF9?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-80DEEA?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-AED581?style=for-the-badge&logo=github&logoColor=white" />
+
+### 💻 Learning More
+<img src="https://img.shields.io/badge/TypeScript-81D4FA?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-CE93D8?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-C5E1A5?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+---
+
+## 🌿 Recent Projects
+
+### 🍃 Beamo Portal QA
+Digital Twin SaaS 품질 검증 및 테스트 자동화
+
+### 🌸 SSV (Samsung Site View) QA
+스마트 건설 솔루션 테스트 및 시나리오 검증
+
+### 🌱 Test Automation Scripts
+Selenium & Pytest 기반 자동화 스크립트 설계 및 운영
 
 ---
 
 ## 🏆 GitHub Trophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kimchiun&theme=monokai&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" alt="trophy" />
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=gruvbox&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-seven-rosy-59.vercel.app/api?username=Kimchiun&show_icons=true&theme=gruvbox&icon_color=orange&title_color=darkorange&hide_border=true&count_private=true" height="165">
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default&hide_border=true&title_color=66BB6A&icon_color=EC407A&text_color=5D4037&bg_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&title_color=66BB6A&text_color=5D4037&bg_color=FFFFFF" />
+
+</div>
 
 ---
 
-## 🌾 Tech Stack
+## 🌺 A little more about me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-d2691e?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-8b4513?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-bc6c25?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-e07a5f?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-f4a261?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-6a994e?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-e9c46a?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+```yaml
+name: Chiun Kim
+role: QA Engineer
+focus:
+  - Quality Assurance
+  - Test Automation
+  - Web / Mobile Testing
+  - Digital Twin SaaS
+  - Crypto / Blockchain Services
 
----
-
-## 🍁 Recent Projects
-
-- [**Beamo Portal QA**](https://github.com/3i-ai/Beamo) – Digital Twin SaaS test automation  
-- [**SSV (Samsung Site View) QA**](https://github.com/3i-ai/ssv-qa) – Smart construction solution test  
-- [**Test Automation Scripts**](https://github.com/Kimchiun/test-automation) – Selenium & Pytest 기반 자동화  
-
----
-
-## 📫 Contact Me
-
-- ✉️ **Email:** rlacldns1123@naver.com  
-- 🍂 **Blog:** [keroqa.tistory.com](https://keroqa.tistory.com/)  
-- 🍁 **LinkedIn:** [Kimchiun](https://www.linkedin.com/in/kimchiun)  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513,FF8C00,F4A460&height=100&section=footer"/>
-</p>
+mindset:
+  - Keep testing practical
+  - Automate what matters
+  - Build quality with the team
+  - Grow a little every day
