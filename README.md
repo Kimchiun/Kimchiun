@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,20:48cae4,40:90e0ef,60:caf0f8,80:ffd166,100:ffb703&height=260&section=header&text=Chiun%20Kim&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=QA%20%2F%20SDET%20%7C%20Automation%20%7C%20Summer%20Vibes&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,20:48cae4,40:90e0ef,60:caf0f8,80:ffd166,100:ffb703&height=260&section=header&text=Chiun%20Kim&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=QA%20%2F%20SDET%20%7C%20Automation%20%7C%20Product%20Quality&descAlignY=60&descSize=20" />
 
 # 🌊 김치운 | Chiun Kim
 
 ### QA / SDET · Test Automation · Blockchain QA · Product Quality
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00B4D8&center=true&vCenter=true&width=920&lines=Summer+has+arrived+%F0%9F%8C%8A;I+care+about+quality%2C+detail%2C+and+consistency+%E2%98%80%EF%B8%8F;Manual+Testing+%2B+Automation+%2B+Process+Improvement+%F0%9F%9A%80;Web%2C+Mobile%2C+API%2C+Wallet%2C+Blockchain+QA+%F0%9F%8F%96%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=00B4D8&center=true&vCenter=true&width=920&lines=I+care+about+quality%2C+detail%2C+and+consistency+%E2%9C%A8;Manual+Testing+%2B+Automation+%2B+Process+Improvement+%F0%9F%9A%80;Web%2C+Mobile%2C+API%2C+Wallet%2C+Blockchain+QA+%F0%9F%8C%8A;Building+reliable+products+through+better+testing+%E2%98%80%EF%B8%8F" />
 
 <br/>
 
@@ -25,13 +25,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Summer+Visitors&color=00b4d8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Visitors&color=00b4d8&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🏖️ About Me
+## 🌊 About Me
 
 안녕하세요.  
 저는 **품질 검증**, **자동화 테스트**, **프로세스 개선**에 집중하는 **QA / SDET**입니다.
@@ -55,7 +55,7 @@
 
 ---
 
-## 🌊 Tech Stack
+## 🫧 Tech Stack
 
 <div align="center">
 
@@ -149,7 +149,7 @@
 
 ---
 
-## 🌴 Summer Keywords
+## 🌴 Keywords
 
 <div align="center">
 
